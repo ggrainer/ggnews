@@ -1,0 +1,4 @@
+baseURL = 'http://news.ggrainer.com'
+languageCode = 'en-us'
+title = 'ggnews'
+theme = 'hugonews'
